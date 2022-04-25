@@ -16,13 +16,10 @@ tulos
 - Um formulário com no minimo 3 campos
 - Valide os campos desse formulário de forma sincrona ou assincrona.
 - Não esqueça de criar a alcoragem dos itens do menu com os
-
-tulos no corpo da página.
+titulos no corpo da página.
 
 Tecnologias necessárias:
 HTML
 Bootstrap
 Java Script
-Se necessário u
-
-lize CSS, porém não exagere, tente achar a funcionalidade no próprio bootstrap!
+Se necessário ulize CSS, porém não exagere, tente achar a funcionalidade no próprio bootstrap!

@@ -23,3 +23,7 @@ HTML
 Bootstrap
 Java Script
 Se necessário ulize CSS, porém não exagere, tente achar a funcionalidade no próprio bootstrap!
+
+**Confira meu proejto**
+
+- [Link do projeto](https://landingpagegen.netlify.app/)
